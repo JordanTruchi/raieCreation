@@ -1,0 +1,44 @@
+[
+        {
+          id: '0',
+          values: [
+            {
+              key: 'name',
+              value: 'Jordinateur'
+            },
+            {
+              key: 'email',
+              value: 'Jordinateur@dinateur.com'
+            },
+            {
+              key: 'password',
+              value: 'djsfsdfuisduofs'
+            },
+            {
+              key: 'role',
+              value: 'Admin'
+            }
+          ]
+        },
+        {
+          id: '1',
+          values: [
+            {
+              key: 'name',
+              value: 'Toto'
+            },
+            {
+              key: 'email',
+              value: 'toto@dinateur.com'
+            },
+            {
+              key: 'password',
+              value: 'djsfsdfuisduofs'
+            },
+            {
+              key: 'role',
+              value: 'Member'
+            }
+          ]
+        }
+      ]

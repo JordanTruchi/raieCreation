@@ -1,0 +1,99 @@
+[
+	{ 
+		businessCore: "Huile",
+		documents: 
+		[
+			{
+				id: 1
+				name: "Document 1",
+				state: "V3",
+				date: "03/12/2019",
+				hightRules: 
+				[
+					{
+						id: 1,
+						name: "TestHR1",
+						content: "TestHR1 CONTENT",
+						lowRules:
+						[
+							{
+								id: 1,
+								name: "TestLR1",
+								content: "TestLR1 CONTENT",
+							},
+							{
+								id: 2,
+								name: "TestLR2",
+								content: TestLR2 CONTENT,
+							}
+						]
+					},
+					{
+						id: 2,
+						name: "TestHR2",
+						content: "TestHR1 CONTENT",
+						lowRules:
+						[
+							{
+								id: 3,
+								name: "TestLR3",
+								content: "TestLR3 CONTENT",
+							},
+							{
+								id: 4,
+								name: "TestLR4",
+								content: "TestLR4 CONTENT",
+							}
+						]
+					}
+				]
+			},
+			{
+				id: 2
+				name: "Document 2",
+				state: "V5",
+				date: "03/12/2019",
+				hightRules: 
+				[
+					{
+						id: 3,
+						name: "TestHR3",
+						content: "TestHR1 CONTENT",
+						lowRules:
+						[
+							{
+								id: 5,
+								name: "TestLR5",
+								content: "TestLR5 CONTENT",
+							},
+							{
+								id: 6,
+								name: "TestLR6",
+								content: "TestLR6 CONTENT",
+							}
+						]
+					},
+					{
+						id: 4,
+						name: "TestHR4",
+						content: "TestHR4 CONTENT",
+						lowRules:
+						[
+							{
+								id: 7,
+								name: "TestLR7",
+								content: "TestLR7 CONTENT",
+							},
+							{
+								id: 8,
+								name: "TestLR8",
+								content: "TestLR8 CONTENT",
+							}
+						]
+					}
+				]
+			}
+		]
+		
+	}
+]
